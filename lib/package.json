@@ -11,7 +11,6 @@
     "react",
     "react-component",
     "toolkit",
-    "pluralsight"
   ],
   "dependencies": {
     "highlight.js": "^9.10.0",
