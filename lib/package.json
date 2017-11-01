@@ -2,7 +2,7 @@
   "name": "ps-react",
   "author": {
     "name": "Manos Papoutsakis",
-    "email": "m_papous@hotmail.com",
+    "email": "m_papous@hotmail.com"
   },
   "version": "1.0.0",
   "main": "./index.js",
